@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="surfaceview">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="takePicbutton">false</item>
+    <item type="id" name="enablePictureTaking">false</item>
+    <item type="id" name="rebalanceButton">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="sric_ssid">false</item>
+    <item type="id" name="sric_key">false</item>
+    <item type="id" name="sric_remoteip">false</item>
+    <item type="id" name="sric_remotedir">false</item>
+    <item type="id" name="sric_remotefile">false</item>
+    <item type="id" name="sric_reconnectnet">false</item>
+    <item type="id" name="settings">false</item>
+</resources>

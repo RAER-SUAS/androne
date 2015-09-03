@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SUAS Camera App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ssid">SSID</string>
+    <string name="key">Key</string>
+    <string name="remoteip">Remote IP</string>
+    <string name="remoteDir">Remote Directory</string>
+    <string name="remoteFile">Remote Filename</string>
+    <string name="reconnectNet">Reconnect To</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+</resources>

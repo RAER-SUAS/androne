@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sric_remotedir">AC/</string>
+    <string name="sric_ssid">scrouter1</string>
+    <string name="sric_reconnectnet">ubnt</string>
+    <string name="sric_key">74E87484EC</string>
+    <string name="sric_remoteip">134.230.1.60</string>
+    <string name="sric_remotefile">msg.txt</string>
+</map>

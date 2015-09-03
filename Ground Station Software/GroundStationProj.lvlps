@@ -1,0 +1,61 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "196,561,596,933"
+
+[AB_Cache_{950C44C1-D798-45AE-A70C-7DDE50C6B3C6}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "2009117c4b742c13afca90d56c82cde5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.exe"
+Cache_GenFile[1][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{30B32ED0-2497-4D96-8149-BAFE2DC5C0B2}"
+Cache_GenGUID[1][String] = "{0465131F-8FB7-496D-8736-E3C20BA2A734}"
+Cache_GenGUID[2][String] = "{32360F6D-5836-4A31-A828-0E1B3E384722}"
+Cache_OutputDir[Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv"
+
+[AB_Cache_{BDA85F44-0A5E-4CB3-B12A-6AB7B60DED0F}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "2009117c4b742c13afca90d56c82cde5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.exe"
+Cache_GenFile[1][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv/Recv.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{30B32ED0-2497-4D96-8149-BAFE2DC5C0B2}"
+Cache_GenGUID[1][String] = "{0465131F-8FB7-496D-8736-E3C20BA2A734}"
+Cache_GenGUID[2][String] = "{32360F6D-5836-4A31-A828-0E1B3E384722}"
+Cache_OutputDir[Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/recv"
+
+[AB_Cache_{57904FC4-59B7-4DE8-9246-39491F46DF45}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "2009117c4b742c13afca90d56c82cde5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Process.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Pr"
+Cache_GenFile[1][Path] Line0002 = "ocess.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Process.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{4068B46E-B78E-452B-85A8-79FFD302A9A0}"
+Cache_GenGUID[1][String] = "{52A36C80-8301-40DB-BB47-F97FE1FE56FF}"
+Cache_GenGUID[2][String] = "{9B698DC3-0100-40B8-88CD-0E7A39D2FFBB}"
+Cache_OutputDir[Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process"
+
+[AB_Cache_{FF72381A-461B-433D-AA13-B1CB61395DB0}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "2009117c4b742c13afca90d56c82cde5"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Process.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Pr"
+Cache_GenFile[1][Path] Line0002 = "ocess.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process/Process.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{4068B46E-B78E-452B-85A8-79FFD302A9A0}"
+Cache_GenGUID[1][String] = "{52A36C80-8301-40DB-BB47-F97FE1FE56FF}"
+Cache_GenGUID[2][String] = "{9B698DC3-0100-40B8-88CD-0E7A39D2FFBB}"
+Cache_OutputDir[Path] = "/C/Users/Chuck Randy/Dropbox/SUAS/Process"
+
