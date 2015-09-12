@@ -1,0 +1,4 @@
+See file:///Users/Brian/Dev/ERAU%20Robotics/androne/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt for all output for compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC.
+compiling hello-jni.c successful.
+
+Finished compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC, see full log file:///Users/Brian/Dev/ERAU%20Robotics/androne/app/build/tmp/compileMipsDebugAllHello-jniSharedLibraryHello-jniMainC/output.txt.
