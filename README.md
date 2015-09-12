@@ -1,10 +1,13 @@
-Hello JNI
+Androne
 =========
-Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
+Payload App
 
 Pre-requisites
 --------------
-- Android Studio 1.3+ with [NDK](https://developer.android.com/ndk/) bundle.
+- Using SDK 23
+-NDK r10e
+-Gradle 2.5
+-'com.android.tools.build:gradle-experimental:0.2.0’.
 
 Getting Started
 ---------------
@@ -16,24 +19,10 @@ Getting Started
 1. Click *Tools/Android/Sync Project with Gradle Files*.
 1. Click *Run/Run 'app'*.
 
-Screenshots
------------
-![screenshot](screenshot.png)
-
-Support
--------
-If you've found an error in these samples, please [file an issue](https://github.com/googlesamples/android-ndk/issues/new).
-
-Patches are encouraged, and may be submitted by [forking this project](https://github.com/googlesamples/android-ndk/fork) and
-submitting a pull request through GitHub. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/android-ndk)
-- [Google+ Community](https://plus.google.com/communities/105153134372062985968)
-- [Android Tools Feedbacks](http://tools.android.com/feedback)
 
 License
 -------
-Copyright 2015 Google, Inc.
+Copyright 2015 Robotics Association SUAS Team.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
