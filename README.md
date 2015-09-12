@@ -5,9 +5,9 @@ Payload App
 Pre-requisites
 --------------
 - Using SDK 23
--NDK r10e
--Gradle 2.5
--'com.android.tools.build:gradle-experimental:0.2.0’.
+- NDK r10e
+- Gradle 2.5
+- 'com.android.tools.build:gradle-experimental:0.2.0’.
 
 Getting Started
 ---------------
