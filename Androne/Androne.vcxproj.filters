@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>af0fb18f-daf0-4a7d-8e54-12553bc7d662</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\values">
+      <UniqueIdentifier>7cccafcd-f06e-4b2c-9d47-1fdebea4b38a</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{f2dba521-3ca7-4d9f-b0ee-1c0653237772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\org">
+      <UniqueIdentifier>{3e644e1d-b0dc-45c1-a48d-3d5cdb244f9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\org\erau">
+      <UniqueIdentifier>{74199f74-dcc8-4377-a1ce-09bd29149a50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\org\erau\raer">
+      <UniqueIdentifier>{2f5ce209-f91b-44a0-bdea-c886e8273903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\org\erau\raer\androne">
+      <UniqueIdentifier>{bf9a41ec-e5d9-4e02-87d3-fec09e16bd9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jni">
+      <UniqueIdentifier>{ceef8980-245f-438d-9294-63a68d2ecd4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="AndroidManifest.xml" />
+    <AndroidBuild Include="res\values\strings.xml">
+      <Filter>res\values</Filter>
+    </AndroidBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <JCompile Include="src\org\erau\raer\androne\Androne.java">
+      <Filter>src\org\erau\raer\androne</Filter>
+    </JCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jni\Androne.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
