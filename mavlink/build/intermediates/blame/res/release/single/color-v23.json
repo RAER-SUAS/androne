@@ -1,14 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\mavlink\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\mavlink\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
-        "source": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\mavlink\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
-        "source": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\res\\merged\\release\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]

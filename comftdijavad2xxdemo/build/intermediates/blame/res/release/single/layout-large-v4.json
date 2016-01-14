@@ -1,14 +1,6 @@
 [
     {
-        "merged": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\fragment_layout.xml",
-        "source": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\comftdijavad2xxdemo\\src\\main\\res\\layout-large\\fragment_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\fragment_layout.xml",
-        "source": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\comftdijavad2xxdemo\\src\\main\\res\\layout-large\\fragment_layout.xml"
-    },
-    {
-        "merged": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\fragment_layout.xml",
-        "source": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\comftdijavad2xxdemo\\src\\main\\res\\layout-large\\fragment_layout.xml"
+        "merged": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\layout-large-v4\\fragment_layout.xml",
+        "source": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\src\\main\\res\\layout-large\\fragment_layout.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-ldrtl-v23\\values-ldrtl-v23.xml",
         "map": [
             {
                 "to": {
@@ -11,55 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "D:\\Documents\\AndroidStudioProjects\\SUASPayload\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 240,
-                        "endColumn": 112,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-ldrtl-v23\\values-ldrtl-v23.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 112,
-                    "endOffset": 163
-                },
-                "from": {
-                    "file": "Z:\\Teams\\SUAS\\PAYLOAD\\SUASPayload\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 240,
-                        "endColumn": 112,
-                        "endOffset": 348
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-ldrtl-v23\\values-ldrtl-v23.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 112,
-                    "endOffset": 163
-                },
-                "from": {
-                    "file": "C:\\Users\\cchap\\AndroidStudioProjects\\SUASPayload\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

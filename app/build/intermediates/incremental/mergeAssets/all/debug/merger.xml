@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/Brian/Dev/ERAU Robotics/androne/app/src/main/assets"/></dataSet><dataSet config="all"><source path="/Users/Brian/Dev/ERAU Robotics/androne/app/src/all/assets"/></dataSet><dataSet config="debug"><source path="/Users/Brian/Dev/ERAU Robotics/androne/app/src/debug/assets"/></dataSet><dataSet config="allDebug"><source path="/Users/Brian/Dev/ERAU Robotics/androne/app/src/allDebug/assets"/></dataSet></merger>
