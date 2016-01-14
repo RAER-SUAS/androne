@@ -24,12 +24,12 @@
         "source": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\debug\\layout\\device_eeprom_userarea.xml",
         "source": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\src\\main\\res\\layout\\device_eeprom_userarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
