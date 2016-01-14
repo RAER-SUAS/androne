@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SUASPayload.iml" filepath="$PROJECT_DIR$/SUASPayload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comftdijavad2xxdemo/comftdijavad2xxdemo.iml" filepath="$PROJECT_DIR$/comftdijavad2xxdemo/comftdijavad2xxdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavlink/mavlink.iml" filepath="$PROJECT_DIR$/mavlink/mavlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" />
+    </modules>
+  </component>
+</project>

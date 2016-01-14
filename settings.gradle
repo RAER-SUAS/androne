@@ -1,1 +1,5 @@
 include ':app'
+include ':openCVLibrary310'
+include ':mavlink'
+include ':comftdijavad2xxdemo'
+
