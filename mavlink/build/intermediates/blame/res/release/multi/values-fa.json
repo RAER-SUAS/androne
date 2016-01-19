@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\res\\merged\\release\\values-fa\\values-fa.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\res\\merged\\release\\values-fa\\values-fa.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 160
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 229,
+                        "startOffset": 56,
                         "endColumn": 109,
-                        "endOffset": 334
+                        "endOffset": 161
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 339,
+                        "startOffset": 166,
                         "endColumn": 109,
-                        "endOffset": 444
+                        "endOffset": 271
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 396
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 449,
+                        "startOffset": 276,
                         "endColumn": 125,
-                        "endOffset": 570
+                        "endOffset": 397
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 575,
+                        "startOffset": 402,
                         "endColumn": 102,
-                        "endOffset": 673
+                        "endOffset": 500
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 610
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 678,
+                        "startOffset": 505,
                         "endColumn": 110,
-                        "endOffset": 784
+                        "endOffset": 611
                     }
                 }
             },
@@ -102,17 +102,17 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 615,
-                    "endColumn": 83,
-                    "endOffset": 694
+                    "endColumn": 87,
+                    "endOffset": 698
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 789,
-                        "endColumn": 83,
-                        "endOffset": 868
+                        "startOffset": 616,
+                        "endColumn": 87,
+                        "endOffset": 699
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 699,
+                    "startOffset": 703,
                     "endColumn": 102,
-                    "endOffset": 797
+                    "endOffset": 801
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 873,
+                        "startOffset": 704,
                         "endColumn": 102,
-                        "endOffset": 971
+                        "endOffset": 802
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 802,
+                    "startOffset": 806,
                     "endColumn": 114,
-                    "endOffset": 912
+                    "endOffset": 916
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 976,
+                        "startOffset": 807,
                         "endColumn": 114,
-                        "endOffset": 1086
+                        "endOffset": 917
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 917,
-                    "endColumn": 78,
-                    "endOffset": 991
+                    "startOffset": 921,
+                    "endColumn": 111,
+                    "endOffset": 1028
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1091,
-                        "endColumn": 78,
-                        "endOffset": 1165
+                        "startOffset": 922,
+                        "endColumn": 111,
+                        "endOffset": 1029
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 996,
-                    "endColumn": 77,
-                    "endOffset": 1069
+                    "startOffset": 1033,
+                    "endColumn": 102,
+                    "endOffset": 1131
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1170,
-                        "endColumn": 77,
-                        "endOffset": 1243
+                        "startOffset": 1034,
+                        "endColumn": 102,
+                        "endOffset": 1132
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1074,
-                    "endColumn": 80,
-                    "endOffset": 1150
+                    "startOffset": 1136,
+                    "endColumn": 97,
+                    "endOffset": 1229
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1248,
-                        "endColumn": 80,
-                        "endOffset": 1324
+                        "startOffset": 1137,
+                        "endColumn": 97,
+                        "endOffset": 1230
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1155,
-                    "endColumn": 111,
-                    "endOffset": 1262
+                    "startOffset": 1234,
+                    "endColumn": 109,
+                    "endOffset": 1339
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1329,
-                        "endColumn": 111,
-                        "endOffset": 1436
+                        "startOffset": 1235,
+                        "endColumn": 109,
+                        "endOffset": 1340
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1267,
+                    "startOffset": 1344,
                     "endColumn": 102,
-                    "endOffset": 1365
+                    "endOffset": 1442
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1441,
+                        "startOffset": 1345,
                         "endColumn": 102,
-                        "endOffset": 1539
+                        "endOffset": 1443
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1370,
-                    "endColumn": 97,
-                    "endOffset": 1463
+                    "startOffset": 1447,
+                    "endColumn": 108,
+                    "endOffset": 1551
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1544,
-                        "endColumn": 97,
-                        "endOffset": 1637
+                        "startOffset": 1448,
+                        "endColumn": 108,
+                        "endOffset": 1552
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1468,
-                    "endColumn": 109,
-                    "endOffset": 1573
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1642,
-                        "endColumn": 109,
-                        "endOffset": 1747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1578,
-                    "endColumn": 102,
+                    "startOffset": 1556,
+                    "endColumn": 124,
                     "endOffset": 1676
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-fa\\values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1752,
-                        "endColumn": 102,
-                        "endOffset": 1850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1681,
-                    "endColumn": 108,
-                    "endOffset": 1785
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1855,
-                        "endColumn": 108,
-                        "endOffset": 1959
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1790,
-                    "endColumn": 124,
-                    "endOffset": 1910
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1964,
+                        "startOffset": 1557,
                         "endColumn": 124,
-                        "endOffset": 2084
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1915,
-                    "endColumn": 100,
-                    "endOffset": 2011
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2089,
-                        "endColumn": 100,
-                        "endOffset": 2185
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2016,
-                    "endColumn": 100,
-                    "endOffset": 2112
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-fa\\values-fa.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2190,
-                        "endColumn": 100,
-                        "endOffset": 2286
+                        "endOffset": 1677
                     }
                 }
             }

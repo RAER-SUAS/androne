@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-port\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 229,
+                        "startOffset": 56,
                         "endColumn": 55,
-                        "endOffset": 280
+                        "endOffset": 107
                     }
                 }
             }

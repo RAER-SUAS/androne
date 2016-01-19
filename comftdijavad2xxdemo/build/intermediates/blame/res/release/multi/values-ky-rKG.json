@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\values-ky-rKG\\values-ky-rKG.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\values-ky-rKG\\values-ky-rKG.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 56,
                         "endColumn": 103,
-                        "endOffset": 332
+                        "endOffset": 155
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 337,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 440
+                        "endOffset": 263
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 445,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 563
+                        "endOffset": 386
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 480
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 391,
                         "endColumn": 94,
-                        "endOffset": 658
+                        "endOffset": 481
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 599
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 663,
+                        "startOffset": 486,
                         "endColumn": 118,
-                        "endOffset": 777
+                        "endOffset": 600
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 683
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 782,
+                        "startOffset": 605,
                         "endColumn": 83,
-                        "endOffset": 861
+                        "endOffset": 684
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 790
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 866,
+                        "startOffset": 689,
                         "endColumn": 106,
-                        "endOffset": 968
+                        "endOffset": 791
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 907
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 973,
+                        "startOffset": 796,
                         "endColumn": 116,
-                        "endOffset": 1085
+                        "endOffset": 908
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 912,
-                    "endColumn": 77,
-                    "endOffset": 985
+                    "endColumn": 109,
+                    "endOffset": 1017
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1090,
-                        "endColumn": 77,
-                        "endOffset": 1163
+                        "startOffset": 913,
+                        "endColumn": 109,
+                        "endOffset": 1018
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 990,
-                    "endColumn": 78,
-                    "endOffset": 1064
+                    "startOffset": 1022,
+                    "endColumn": 106,
+                    "endOffset": 1124
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1168,
-                        "endColumn": 78,
-                        "endOffset": 1242
+                        "startOffset": 1023,
+                        "endColumn": 106,
+                        "endOffset": 1125
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1069,
-                    "endColumn": 80,
-                    "endOffset": 1145
+                    "startOffset": 1129,
+                    "endColumn": 97,
+                    "endOffset": 1222
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1247,
-                        "endColumn": 80,
-                        "endOffset": 1323
+                        "startOffset": 1130,
+                        "endColumn": 97,
+                        "endOffset": 1223
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1150,
-                    "endColumn": 109,
-                    "endOffset": 1255
+                    "startOffset": 1227,
+                    "endColumn": 105,
+                    "endOffset": 1328
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1328,
-                        "endColumn": 109,
-                        "endOffset": 1433
+                        "startOffset": 1228,
+                        "endColumn": 105,
+                        "endOffset": 1329
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1260,
+                    "startOffset": 1333,
                     "endColumn": 106,
-                    "endOffset": 1362
+                    "endOffset": 1435
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1438,
+                        "startOffset": 1334,
                         "endColumn": 106,
-                        "endOffset": 1540
+                        "endOffset": 1436
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1367,
-                    "endColumn": 97,
-                    "endOffset": 1460
+                    "startOffset": 1440,
+                    "endColumn": 100,
+                    "endOffset": 1536
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1545,
-                        "endColumn": 97,
-                        "endOffset": 1638
+                        "startOffset": 1441,
+                        "endColumn": 100,
+                        "endOffset": 1537
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1465,
-                    "endColumn": 105,
-                    "endOffset": 1566
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1643,
-                        "endColumn": 105,
-                        "endOffset": 1744
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1571,
-                    "endColumn": 106,
-                    "endOffset": 1673
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1749,
-                        "endColumn": 106,
-                        "endOffset": 1851
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1678,
-                    "endColumn": 100,
-                    "endOffset": 1774
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1856,
-                        "endColumn": 100,
-                        "endOffset": 1952
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1779,
+                    "startOffset": 1541,
                     "endColumn": 123,
-                    "endOffset": 1898
+                    "endOffset": 1660
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-ky-rKG\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1957,
+                        "startOffset": 1542,
                         "endColumn": 123,
-                        "endOffset": 2076
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1903,
-                    "endColumn": 102,
-                    "endOffset": 2001
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2081,
-                        "endColumn": 102,
-                        "endOffset": 2179
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2006,
-                    "endColumn": 100,
-                    "endOffset": 2102
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2184,
-                        "endColumn": 100,
-                        "endOffset": 2280
+                        "endOffset": 1661
                     }
                 }
             }

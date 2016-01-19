@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-iw\\values-iw.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-iw\\values-iw.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 229,
+                        "startOffset": 56,
                         "endColumn": 103,
-                        "endOffset": 328
+                        "endOffset": 155
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 264
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 333,
+                        "startOffset": 160,
                         "endColumn": 109,
-                        "endOffset": 438
+                        "endOffset": 265
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 390
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 443,
+                        "startOffset": 270,
                         "endColumn": 125,
-                        "endOffset": 564
+                        "endOffset": 391
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 489
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 569,
+                        "startOffset": 396,
                         "endColumn": 98,
-                        "endOffset": 663
+                        "endOffset": 490
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 597
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 668,
+                        "startOffset": 495,
                         "endColumn": 107,
-                        "endOffset": 771
+                        "endOffset": 598
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 681
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 776,
+                        "startOffset": 603,
                         "endColumn": 83,
-                        "endOffset": 855
+                        "endOffset": 682
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 781
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 860,
+                        "startOffset": 687,
                         "endColumn": 99,
-                        "endOffset": 955
+                        "endOffset": 782
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 895
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 960,
+                        "startOffset": 787,
                         "endColumn": 113,
-                        "endOffset": 1069
+                        "endOffset": 896
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 900,
-                    "endColumn": 77,
-                    "endOffset": 973
+                    "endColumn": 101,
+                    "endOffset": 997
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1074,
-                        "endColumn": 77,
-                        "endOffset": 1147
+                        "startOffset": 901,
+                        "endColumn": 101,
+                        "endOffset": 998
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 978,
-                    "endColumn": 77,
-                    "endOffset": 1051
+                    "startOffset": 1002,
+                    "endColumn": 103,
+                    "endOffset": 1101
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1152,
-                        "endColumn": 77,
-                        "endOffset": 1225
+                        "startOffset": 1003,
+                        "endColumn": 103,
+                        "endOffset": 1102
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1056,
-                    "endColumn": 78,
-                    "endOffset": 1130
+                    "startOffset": 1106,
+                    "endColumn": 95,
+                    "endOffset": 1197
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1230,
-                        "endColumn": 78,
-                        "endOffset": 1304
+                        "startOffset": 1107,
+                        "endColumn": 95,
+                        "endOffset": 1198
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1135,
-                    "endColumn": 101,
-                    "endOffset": 1232
+                    "startOffset": 1202,
+                    "endColumn": 102,
+                    "endOffset": 1300
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1309,
-                        "endColumn": 101,
-                        "endOffset": 1406
+                        "startOffset": 1203,
+                        "endColumn": 102,
+                        "endOffset": 1301
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1237,
-                    "endColumn": 103,
-                    "endOffset": 1336
+                    "startOffset": 1305,
+                    "endColumn": 100,
+                    "endOffset": 1401
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1411,
-                        "endColumn": 103,
-                        "endOffset": 1510
+                        "startOffset": 1306,
+                        "endColumn": 100,
+                        "endOffset": 1402
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1341,
-                    "endColumn": 95,
-                    "endOffset": 1432
+                    "startOffset": 1406,
+                    "endColumn": 99,
+                    "endOffset": 1501
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1515,
-                        "endColumn": 95,
-                        "endOffset": 1606
+                        "startOffset": 1407,
+                        "endColumn": 99,
+                        "endOffset": 1502
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1437,
-                    "endColumn": 102,
-                    "endOffset": 1535
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1611,
-                        "endColumn": 102,
-                        "endOffset": 1709
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1540,
-                    "endColumn": 100,
-                    "endOffset": 1636
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1714,
-                        "endColumn": 100,
-                        "endOffset": 1810
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1641,
-                    "endColumn": 99,
-                    "endOffset": 1736
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1815,
-                        "endColumn": 99,
-                        "endOffset": 1910
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1741,
+                    "startOffset": 1506,
                     "endColumn": 115,
-                    "endOffset": 1852
+                    "endOffset": 1617
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-iw\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1915,
+                        "startOffset": 1507,
                         "endColumn": 115,
-                        "endOffset": 2026
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1857,
-                    "endColumn": 95,
-                    "endOffset": 1948
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2031,
-                        "endColumn": 95,
-                        "endOffset": 2122
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1953,
-                    "endColumn": 102,
-                    "endOffset": 2051
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2127,
-                        "endColumn": 102,
-                        "endOffset": 2225
+                        "endOffset": 1618
                     }
                 }
             }

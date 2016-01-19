@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\res\\merged\\release\\values-mn-rMN\\values-mn-rMN.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\res\\merged\\release\\values-mn-rMN\\values-mn-rMN.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 56,
                         "endColumn": 112,
-                        "endOffset": 341
+                        "endOffset": 164
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 271
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 346,
+                        "startOffset": 169,
                         "endColumn": 107,
-                        "endOffset": 449
+                        "endOffset": 272
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 454,
+                        "startOffset": 277,
                         "endColumn": 122,
-                        "endOffset": 572
+                        "endOffset": 395
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 494
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 577,
+                        "startOffset": 400,
                         "endColumn": 99,
-                        "endOffset": 672
+                        "endOffset": 495
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 607
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 677,
+                        "startOffset": 500,
                         "endColumn": 112,
-                        "endOffset": 785
+                        "endOffset": 608
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 790,
+                        "startOffset": 613,
                         "endColumn": 86,
-                        "endOffset": 872
+                        "endOffset": 695
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 877,
+                        "startOffset": 700,
                         "endColumn": 105,
-                        "endOffset": 978
+                        "endOffset": 801
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 912
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 983,
+                        "startOffset": 806,
                         "endColumn": 111,
-                        "endOffset": 1090
+                        "endOffset": 913
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 917,
-                    "endColumn": 81,
-                    "endOffset": 994
+                    "endColumn": 108,
+                    "endOffset": 1021
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1095,
-                        "endColumn": 81,
-                        "endOffset": 1172
+                        "startOffset": 918,
+                        "endColumn": 108,
+                        "endOffset": 1022
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 999,
-                    "endColumn": 81,
-                    "endOffset": 1076
+                    "startOffset": 1026,
+                    "endColumn": 103,
+                    "endOffset": 1125
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1177,
-                        "endColumn": 81,
-                        "endOffset": 1254
+                        "startOffset": 1027,
+                        "endColumn": 103,
+                        "endOffset": 1126
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1081,
-                    "endColumn": 81,
-                    "endOffset": 1158
+                    "startOffset": 1130,
+                    "endColumn": 96,
+                    "endOffset": 1222
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1259,
-                        "endColumn": 81,
-                        "endOffset": 1336
+                        "startOffset": 1131,
+                        "endColumn": 96,
+                        "endOffset": 1223
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1163,
-                    "endColumn": 108,
-                    "endOffset": 1267
+                    "startOffset": 1227,
+                    "endColumn": 107,
+                    "endOffset": 1330
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1341,
-                        "endColumn": 108,
-                        "endOffset": 1445
+                        "startOffset": 1228,
+                        "endColumn": 107,
+                        "endOffset": 1331
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1272,
-                    "endColumn": 103,
-                    "endOffset": 1371
+                    "startOffset": 1335,
+                    "endColumn": 100,
+                    "endOffset": 1431
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1450,
-                        "endColumn": 103,
-                        "endOffset": 1549
+                        "startOffset": 1336,
+                        "endColumn": 100,
+                        "endOffset": 1432
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1376,
-                    "endColumn": 96,
-                    "endOffset": 1468
+                    "startOffset": 1436,
+                    "endColumn": 102,
+                    "endOffset": 1534
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1554,
-                        "endColumn": 96,
-                        "endOffset": 1646
+                        "startOffset": 1437,
+                        "endColumn": 102,
+                        "endOffset": 1535
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1473,
-                    "endColumn": 107,
-                    "endOffset": 1576
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1651,
-                        "endColumn": 107,
-                        "endOffset": 1754
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1581,
-                    "endColumn": 100,
-                    "endOffset": 1677
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1759,
-                        "endColumn": 100,
-                        "endOffset": 1855
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1682,
-                    "endColumn": 102,
-                    "endOffset": 1780
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1860,
-                        "endColumn": 102,
-                        "endOffset": 1958
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1785,
+                    "startOffset": 1539,
                     "endColumn": 121,
-                    "endOffset": 1902
+                    "endOffset": 1656
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-mn-rMN\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1963,
+                        "startOffset": 1540,
                         "endColumn": 121,
-                        "endOffset": 2080
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1907,
-                    "endColumn": 96,
-                    "endOffset": 1999
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2085,
-                        "endColumn": 96,
-                        "endOffset": 2177
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2004,
-                    "endColumn": 100,
-                    "endOffset": 2100
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mn-rMN\\values-mn-rMN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2182,
-                        "endColumn": 100,
-                        "endOffset": 2278
+                        "endOffset": 1657
                     }
                 }
             }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\values-gl-rES\\values-gl-rES.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\values-gl-rES\\values-gl-rES.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 162
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 56,
                         "endColumn": 111,
-                        "endOffset": 340
+                        "endOffset": 163
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 345,
+                        "startOffset": 168,
                         "endColumn": 107,
-                        "endOffset": 448
+                        "endOffset": 271
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 393
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 453,
+                        "startOffset": 276,
                         "endColumn": 122,
-                        "endOffset": 571
+                        "endOffset": 394
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 576,
+                        "startOffset": 399,
                         "endColumn": 111,
-                        "endOffset": 683
+                        "endOffset": 506
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 613
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 688,
+                        "startOffset": 511,
                         "endColumn": 107,
-                        "endOffset": 791
+                        "endOffset": 614
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 698
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 796,
+                        "startOffset": 619,
                         "endColumn": 84,
-                        "endOffset": 876
+                        "endOffset": 699
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 881,
+                        "startOffset": 704,
                         "endColumn": 101,
-                        "endOffset": 978
+                        "endOffset": 801
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 926
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 983,
+                        "startOffset": 806,
                         "endColumn": 125,
-                        "endOffset": 1104
+                        "endOffset": 927
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 931,
-                    "endColumn": 83,
-                    "endOffset": 1010
+                    "endColumn": 106,
+                    "endOffset": 1033
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1109,
-                        "endColumn": 83,
-                        "endOffset": 1188
+                        "startOffset": 932,
+                        "endColumn": 106,
+                        "endOffset": 1034
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1015,
-                    "endColumn": 80,
-                    "endOffset": 1091
+                    "startOffset": 1038,
+                    "endColumn": 108,
+                    "endOffset": 1142
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1193,
-                        "endColumn": 80,
-                        "endOffset": 1269
+                        "startOffset": 1039,
+                        "endColumn": 108,
+                        "endOffset": 1143
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1096,
-                    "endColumn": 81,
-                    "endOffset": 1173
+                    "startOffset": 1147,
+                    "endColumn": 98,
+                    "endOffset": 1241
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1274,
-                        "endColumn": 81,
-                        "endOffset": 1351
+                        "startOffset": 1148,
+                        "endColumn": 98,
+                        "endOffset": 1242
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1178,
-                    "endColumn": 106,
-                    "endOffset": 1280
+                    "startOffset": 1246,
+                    "endColumn": 107,
+                    "endOffset": 1349
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 106,
-                        "endOffset": 1458
+                        "startOffset": 1247,
+                        "endColumn": 107,
+                        "endOffset": 1350
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1285,
-                    "endColumn": 108,
-                    "endOffset": 1389
+                    "startOffset": 1354,
+                    "endColumn": 102,
+                    "endOffset": 1452
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1463,
-                        "endColumn": 108,
-                        "endOffset": 1567
+                        "startOffset": 1355,
+                        "endColumn": 102,
+                        "endOffset": 1453
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1394,
-                    "endColumn": 98,
-                    "endOffset": 1488
+                    "startOffset": 1457,
+                    "endColumn": 106,
+                    "endOffset": 1559
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1572,
-                        "endColumn": 98,
-                        "endOffset": 1666
+                        "startOffset": 1458,
+                        "endColumn": 106,
+                        "endOffset": 1560
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1493,
-                    "endColumn": 107,
-                    "endOffset": 1596
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1671,
-                        "endColumn": 107,
-                        "endOffset": 1774
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1601,
-                    "endColumn": 102,
-                    "endOffset": 1699
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1779,
-                        "endColumn": 102,
-                        "endOffset": 1877
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1704,
-                    "endColumn": 106,
-                    "endOffset": 1806
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1882,
-                        "endColumn": 106,
-                        "endOffset": 1984
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1811,
+                    "startOffset": 1564,
                     "endColumn": 121,
-                    "endOffset": 1928
+                    "endOffset": 1681
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-gl-rES\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1989,
+                        "startOffset": 1565,
                         "endColumn": 121,
-                        "endOffset": 2106
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1933,
-                    "endColumn": 99,
-                    "endOffset": 2028
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2111,
-                        "endColumn": 99,
-                        "endOffset": 2206
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2033,
-                    "endColumn": 100,
-                    "endOffset": 2129
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-gl-rES\\values-gl-rES.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2211,
-                        "endColumn": 100,
-                        "endOffset": 2307
+                        "endOffset": 1682
                     }
                 }
             }

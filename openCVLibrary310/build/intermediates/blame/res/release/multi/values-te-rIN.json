@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-te-rIN\\values-te-rIN.xml",
+        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\values-te-rIN\\values-te-rIN.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 56,
                         "endColumn": 113,
-                        "endOffset": 342
+                        "endOffset": 165
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 347,
+                        "startOffset": 170,
                         "endColumn": 107,
-                        "endOffset": 450
+                        "endOffset": 273
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 395
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 455,
+                        "startOffset": 278,
                         "endColumn": 122,
-                        "endOffset": 573
+                        "endOffset": 396
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 504
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 578,
+                        "startOffset": 401,
                         "endColumn": 108,
-                        "endOffset": 682
+                        "endOffset": 505
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 615
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 687,
+                        "startOffset": 510,
                         "endColumn": 110,
-                        "endOffset": 793
+                        "endOffset": 616
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 705
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 798,
+                        "startOffset": 621,
                         "endColumn": 89,
-                        "endOffset": 883
+                        "endOffset": 706
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 810
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 888,
+                        "startOffset": 711,
                         "endColumn": 104,
-                        "endOffset": 988
+                        "endOffset": 811
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 935
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 993,
+                        "startOffset": 816,
                         "endColumn": 124,
-                        "endOffset": 1113
+                        "endOffset": 936
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 940,
-                    "endColumn": 81,
-                    "endOffset": 1017
+                    "endColumn": 112,
+                    "endOffset": 1048
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1118,
-                        "endColumn": 81,
-                        "endOffset": 1195
+                        "startOffset": 941,
+                        "endColumn": 112,
+                        "endOffset": 1049
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1022,
-                    "endColumn": 81,
-                    "endOffset": 1099
+                    "startOffset": 1053,
+                    "endColumn": 107,
+                    "endOffset": 1156
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1200,
-                        "endColumn": 81,
-                        "endOffset": 1277
+                        "startOffset": 1054,
+                        "endColumn": 107,
+                        "endOffset": 1157
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1104,
-                    "endColumn": 84,
-                    "endOffset": 1184
+                    "startOffset": 1161,
+                    "endColumn": 99,
+                    "endOffset": 1256
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1282,
-                        "endColumn": 84,
-                        "endOffset": 1362
+                        "startOffset": 1162,
+                        "endColumn": 99,
+                        "endOffset": 1257
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1189,
-                    "endColumn": 112,
-                    "endOffset": 1297
+                    "startOffset": 1261,
+                    "endColumn": 110,
+                    "endOffset": 1367
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1367,
-                        "endColumn": 112,
-                        "endOffset": 1475
+                        "startOffset": 1262,
+                        "endColumn": 110,
+                        "endOffset": 1368
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1302,
-                    "endColumn": 107,
-                    "endOffset": 1405
+                    "startOffset": 1372,
+                    "endColumn": 101,
+                    "endOffset": 1469
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1480,
-                        "endColumn": 107,
-                        "endOffset": 1583
+                        "startOffset": 1373,
+                        "endColumn": 101,
+                        "endOffset": 1470
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1410,
-                    "endColumn": 99,
-                    "endOffset": 1505
+                    "startOffset": 1474,
+                    "endColumn": 116,
+                    "endOffset": 1586
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1588,
-                        "endColumn": 99,
-                        "endOffset": 1683
+                        "startOffset": 1475,
+                        "endColumn": 116,
+                        "endOffset": 1587
                     }
                 }
             },
@@ -272,113 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1510,
-                    "endColumn": 110,
-                    "endOffset": 1616
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1688,
-                        "endColumn": 110,
-                        "endOffset": 1794
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1621,
-                    "endColumn": 101,
-                    "endOffset": 1718
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1799,
-                        "endColumn": 101,
-                        "endOffset": 1896
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1723,
-                    "endColumn": 116,
-                    "endOffset": 1835
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1901,
-                        "endColumn": 116,
-                        "endOffset": 2013
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1840,
+                    "startOffset": 1591,
                     "endColumn": 126,
-                    "endOffset": 1962
+                    "endOffset": 1713
                 },
                 "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-te-rIN\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2018,
+                        "startOffset": 1592,
                         "endColumn": 126,
-                        "endOffset": 2140
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1967,
-                    "endColumn": 100,
-                    "endOffset": 2063
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2145,
-                        "endColumn": 100,
-                        "endOffset": 2241
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2068,
-                    "endColumn": 100,
-                    "endOffset": 2164
-                },
-                "from": {
-                    "file": "C:\\Users\\robot\\SUASPayload\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-te-rIN\\values-te-rIN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2246,
-                        "endColumn": 100,
-                        "endOffset": 2342
+                        "endOffset": 1714
                     }
                 }
             }
