@@ -1,5 +1,6 @@
 package com.raer.suas.suaspayload;
-import android.net.*;
+
+import android.net.NetworkInfo;
 
 import java.net.InetAddress;
 

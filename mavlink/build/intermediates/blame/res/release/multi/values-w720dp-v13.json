@@ -11,13 +11,13 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w720dp\\values.xml",
+                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\mavlink\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 293,
                         "endColumn": 76,
-                        "endOffset": 128
+                        "endOffset": 365
                     }
                 }
             }
