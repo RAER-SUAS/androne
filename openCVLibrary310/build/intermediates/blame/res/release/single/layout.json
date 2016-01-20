@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
-        "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
-        "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
-    },
-    {
         "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
