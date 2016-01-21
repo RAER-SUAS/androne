@@ -3,3 +3,4 @@ include ':openCVLibrary310'
 include ':mavlink'
 include ':comftdijavad2xxdemo'
 
+include ':mavLinkHUB'

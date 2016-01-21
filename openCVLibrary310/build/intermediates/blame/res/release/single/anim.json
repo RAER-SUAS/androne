@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
         "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\Robotics\\StudioProjects\\androne\\openCVLibrary310\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",

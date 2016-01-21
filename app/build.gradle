@@ -24,5 +24,6 @@ dependencies {
     compile project(':comftdijavad2xxdemo')
     compile project(':mavlink')
     compile project(':openCVLibrary310')
+    compile project(':mavLinkHUB')
 }
 
