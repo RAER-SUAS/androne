@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res"/><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\build\generated\res\rs\release"/><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res"><file name="button_pattern" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\drawable-hdpi\button_pattern.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device_bitmode" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_bitmode.xml" qualifiers="" type="layout"/><file name="device_bit_mode_service" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_bit_mode_service.xml" qualifiers="" type="layout"/><file name="device_eeprom" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_eeprom.xml" qualifiers="" type="layout"/><file name="device_eeprom_userarea" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_eeprom_userarea.xml" qualifiers="" type="layout"/><file name="device_event" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_event.xml" qualifiers="" type="layout"/><file name="device_filetransfer" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_filetransfer.xml" qualifiers="" type="layout"/><file name="device_ft2232htest" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_ft2232htest.xml" qualifiers="" type="layout"/><file name="device_ft4232htest" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_ft4232htest.xml" qualifiers="" type="layout"/><file name="device_information" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_information.xml" qualifiers="" type="layout"/><file name="device_misc" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_misc.xml" qualifiers="" type="layout"/><file name="device_mpse" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_mpse.xml" qualifiers="" type="layout"/><file name="device_opendevice" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_opendevice.xml" qualifiers="" type="layout"/><file name="device_pidvid" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_pidvid.xml" qualifiers="" type="layout"/><file name="device_rs232pinconfig" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_rs232pinconfig.xml" qualifiers="" type="layout"/><file name="device_status" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_status.xml" qualifiers="" type="layout"/><file name="device_uart" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\device_uart.xml" qualifiers="" type="layout"/><file name="fragment_layout" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\fragment_layout.xml" qualifiers="" type="layout"/><file name="my_spinner_textview" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout\my_spinner_textview.xml" qualifiers="" type="layout"/><file name="fragment_layout" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\layout-large\fragment_layout.xml" qualifiers="large-v4" type="layout"/><file path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\values\strings.xml" qualifiers=""><string-array name="baud_rate">        
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res"/><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/generated/res/rs/release"/><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res"><file name="button_pattern" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/drawable-hdpi/button_pattern.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="device_bit_mode_service" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_bit_mode_service.xml" qualifiers="" type="layout"/><file name="device_bitmode" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_bitmode.xml" qualifiers="" type="layout"/><file name="device_eeprom" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_eeprom.xml" qualifiers="" type="layout"/><file name="device_eeprom_userarea" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_eeprom_userarea.xml" qualifiers="" type="layout"/><file name="device_event" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_event.xml" qualifiers="" type="layout"/><file name="device_filetransfer" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_filetransfer.xml" qualifiers="" type="layout"/><file name="device_ft2232htest" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_ft2232htest.xml" qualifiers="" type="layout"/><file name="device_ft4232htest" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_ft4232htest.xml" qualifiers="" type="layout"/><file name="device_information" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_information.xml" qualifiers="" type="layout"/><file name="device_misc" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_misc.xml" qualifiers="" type="layout"/><file name="device_mpse" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_mpse.xml" qualifiers="" type="layout"/><file name="device_opendevice" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_opendevice.xml" qualifiers="" type="layout"/><file name="device_pidvid" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_pidvid.xml" qualifiers="" type="layout"/><file name="device_rs232pinconfig" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_rs232pinconfig.xml" qualifiers="" type="layout"/><file name="device_status" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_status.xml" qualifiers="" type="layout"/><file name="device_uart" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/device_uart.xml" qualifiers="" type="layout"/><file name="fragment_layout" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/fragment_layout.xml" qualifiers="" type="layout"/><file name="my_spinner_textview" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout/my_spinner_textview.xml" qualifiers="" type="layout"/><file name="fragment_layout" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/layout-large/fragment_layout.xml" qualifiers="large-v4" type="layout"/><file path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/values/strings.xml" qualifiers=""><string-array name="parity">        
+		<item>none</item>        
+		<item>odd</item>
+		<item>even</item>
+		<item>mark</item>
+		<item>space</item>
+	</string-array><string-array name="max_transfer_size">
+	    <item>32768</item>   
+	    <item>16384</item>   
+	    <item>8192</item>   
+	    <item>4096</item>   
+	    <item>2048</item>        
+	    <item>1024</item>      
+		<item>512</item>        
+		<item>256</item>
+		<item>128</item>
+		<item>64</item>
+	</string-array><string-array name="baud_rate">        
 		<item>300</item>        
 		<item>600</item>        
 		<item>1200</item>        
@@ -24,41 +41,31 @@
 		<item>10000000</item>
 		<item>11000000</item>
 		<item>12000000</item>			
-	</string-array><string name="title_activity_device_loopback">Device Loopback</string><string name="title_activity_main">FTDI D2xx Demo</string><string name="title_activity_device_information">Device Information</string><string name="title_activity_device_configure">Device Configure</string><string name="button_eeprom">Device EEPROM API</string><string name="hex_digits_letter">0123456789abcdef</string><string-array name="buffer_number">        
+	</string-array><string-array name="buffer_number">        
 		<item>12</item>        
 		<item>10</item>
 		<item>8</item>
 		<item>6</item>
 		<item>4</item>
 		<item>2</item>
-	</string-array><string-array name="data_bits">        
-		<item>7</item>        
-		<item>8</item>        
-	</string-array><string name="title_activity_ftdi_mode_control">Ftdi Mode Control</string><string-array name="flow_control">        
+	</string-array><string name="title_activity_device_loopback">Device Loopback</string><string name="title_activity_device_bit_mode">Device BitMode</string><string name="button_configure">Device Configure</string><string-array name="flow_control">        
 		<item>none</item>        
 		<item>CTS/RTS</item>
 		<item>DTR/DSR</item>
 		<item>XOFF/XON</item>
-	</string-array><string name="button_loopback">Loopback</string><string-array name="stop_bits">        
+	</string-array><string name="hex_digits_letter">0123456789abcdef</string><string name="button_eeprom">Device EEPROM API</string><string name="title_activity_device_bit_mode_service">Device BitMode Service</string><string-array name="port_list_2">        
+		<item>1</item>
+		<item>2</item>
+	</string-array><string-array name="port_list_1">        
+		<item>1</item>
+	</string-array><string name="title_activity_device_information">Device Information</string><string-array name="port_list_4">        
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array><string name="app_name">FTDID2xxDemo</string><string-array name="stop_bits">        
 		<item>1</item>        
 		<item>2</item>        
-	</string-array><string name="button_bitmode">BitMode</string><string name="title_activity_ftdi_mode_fragment">Ftdi Mode Info</string><string name="button_configure">Device Configure</string><string name="button_bitmode_service">BitMode Service</string><string name="title_activity_device_bit_mode">Device BitMode</string><string name="app_name">FTDID2xxDemo</string><string name="button_info">Information</string><string-array name="parity">        
-		<item>none</item>        
-		<item>odd</item>
-		<item>even</item>
-		<item>mark</item>
-		<item>space</item>
-	</string-array><string-array name="max_transfer_size">
-	    <item>32768</item>   
-	    <item>16384</item>   
-	    <item>8192</item>   
-	    <item>4096</item>   
-	    <item>2048</item>        
-	    <item>1024</item>      
-		<item>512</item>        
-		<item>256</item>
-		<item>128</item>
-		<item>64</item>
 	</string-array><string-array name="buffer_size">    
 	    <item>32768</item>    
 		<item>1M</item>        
@@ -71,14 +78,7 @@
 		<item>8M</item>
 		<item>9M</item>
 		<item>10M</item>
-	</string-array><string-array name="port_list_4">        
-		<item>1</item>
-		<item>2</item>
-		<item>3</item>
-		<item>4</item>
-	</string-array><string name="title_activity_device_bit_mode_service">Device BitMode Service</string><string-array name="port_list_1">        
-		<item>1</item>
-	</string-array><string-array name="port_list_2">        
-		<item>1</item>
-		<item>2</item>
-	</string-array></file><file name="device_filter" path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\main\res\xml\device_filter.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\build\generated\res\rs\release"/><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\Robotics\StudioProjects\androne\comftdijavad2xxdemo\src\release\res"/></dataSet><mergedItems/></merger>
+	</string-array><string name="button_loopback">Loopback</string><string name="button_bitmode_service">BitMode Service</string><string name="title_activity_device_configure">Device Configure</string><string name="title_activity_main">FTDI D2xx Demo</string><string name="title_activity_ftdi_mode_control">Ftdi Mode Control</string><string name="button_info">Information</string><string name="title_activity_ftdi_mode_fragment">Ftdi Mode Info</string><string name="button_bitmode">BitMode</string><string-array name="data_bits">        
+		<item>7</item>        
+		<item>8</item>        
+	</string-array></file><file name="device_filter" path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/main/res/xml/device_filter.xml" qualifiers="" type="xml"/></source><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/generated/res/rs/release"/><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/src/release/res"/></dataSet><mergedItems/></merger>

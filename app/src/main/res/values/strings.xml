@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">SUAS Payload</string>
 
+    <!-- Strings related to Navigation Drawer-->
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
     <!-- Strings related to Settings -->
 
     <!-- Example General settings -->
@@ -29,7 +34,8 @@
     <!-- Example settings for Data & Sync -->
     <string name="pref_header_wifi">WiFi Connectivity</string>
 
-    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_ip_address">IP Address</string>
+    <string name="pref_value_ip_address">N/A</string>
     <string-array name="pref_sync_frequency_titles">
         <item>15 minutes</item>
         <item>30 minutes</item>
@@ -58,4 +64,10 @@
     <string name="pref_ringtone_silent">Silent</string>
 
     <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>

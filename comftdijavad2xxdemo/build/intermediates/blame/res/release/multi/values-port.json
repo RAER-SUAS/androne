@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "outputFile": "/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/intermediates/res/merged/release/values-port/values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\Robotics\\StudioProjects\\androne\\comftdijavad2xxdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-port\\values-port.xml",
+                    "file": "/Users/Brian/Dev/SUAS 2016/androne/comftdijavad2xxdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-port/values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

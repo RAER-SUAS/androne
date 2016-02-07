@@ -3,17 +3,17 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="com.raer.suas.suaspayload.SettingsActivity$GeneralPreferenceFragment"
+        android:fragment="com.raer.suas.suaspayload.SettingsActivityOld$GeneralPreferenceFragment"
         android:icon="@drawable/ic_info_black_24dp"
         android:title="@string/pref_header_usb" />
 
     <header
-        android:fragment="com.raer.suas.suaspayload.SettingsActivity$NotificationPreferenceFragment"
+        android:fragment="com.raer.suas.suaspayload.SettingsActivityOld$NotificationPreferenceFragment"
         android:icon="@drawable/ic_notifications_black_24dp"
         android:title="@string/pref_header_camera" />
 
     <header
-        android:fragment="com.raer.suas.suaspayload.SettingsActivity$DataSyncPreferenceFragment"
+        android:fragment="com.raer.suas.suaspayload.SettingsActivityOld$DataSyncPreferenceFragment"
         android:icon="@drawable/ic_sync_black_24dp"
         android:title="@string/pref_header_wifi" />
 
