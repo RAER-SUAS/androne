@@ -16,6 +16,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.raer.suas.suaspayload.utils.SharedPreference;
+
 public class MainActivity extends AppCompatActivity {
 
     private ListView mDrawerList;
@@ -24,6 +26,9 @@ public class MainActivity extends AppCompatActivity {
     private ActionBarDrawerToggle mDrawerToggle;
     private String mActivityTitle;
     private FragmentManager fragmentManager;
+
+    //Used to store and retreive preferences(settings) in app
+    private SharedPreference sharedPreference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,12 +39,16 @@ public class MainActivity extends AppCompatActivity {
         mActivityTitle = getTitle().toString();
         fragmentManager = getFragmentManager();
 
+        sharedPreference = new SharedPreference();
+
         addDrawerItems();
         setupDrawer();
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
 
+
+        //Set the home fragment into main view
         fragmentManager.beginTransaction().replace(R.id.mainLayout, new HomeFragment()).commit();
 
     }

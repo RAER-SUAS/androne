@@ -25,6 +25,11 @@ dependencies {
     compile project(':openCVLibrary310')
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.android.support:design:22.2.1'
+
+}
+
+sourceSets{
+    main.java.srcDirs += 'src/main/java/com/raer/suas/suaspayload/utils'
 }
 
 
